@@ -1,20 +1,3 @@
-#<meta>
-#<Person_ID_Number>201-102-160-622-095</Person_ID_Number>
-#<Age>24</Age>
-#<Gender>1</Gender>
-#<Writing_Hand>1</Writing_Hand>
-#<Weight>98</Weight>
-#<Height>173</Height>
-#<Smoker>1</Smoker>
-#<Notice></Notice>
-#<Object>d_mea</Object>
-#<Object_Index>3</Object_Index>
-#<Pen>Pentrics Alberich1</Pen>
-#<Samplerate>1000</Samplerate>
-#<Time>06:25:48</Time>
-#<Date>16.02.2011</Date>
-#<Comment></Comment>
-#</meta>
 3.02562787625015	5.6847142155101	5.95366960739693	5.92962	4.08211	4.07551
 2.99522537353295	5.71883370816074	5.95292346433291	5.92962	4.08211	4.07551
 3.01277911918328	5.7568479662962	5.95224983119769	5.92962	4.08211	4.07551
